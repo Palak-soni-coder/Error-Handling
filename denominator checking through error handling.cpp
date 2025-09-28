@@ -1,3 +1,8 @@
+//EXPERIMENT-15
+//NAME:PALAK SONI
+//PRN:24070123069
+//ENTC A3
+
 #include <iostream>
 using namespace std;
 int main() {
